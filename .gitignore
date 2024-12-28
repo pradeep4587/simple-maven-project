@@ -1,0 +1,14 @@
+# Ignore the target folder (where compiled files and jars are generated)
+target/
+
+# Ignore IDE-specific files (if you use Eclipse, IntelliJ, etc.)
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
